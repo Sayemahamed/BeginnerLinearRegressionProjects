@@ -6,3 +6,4 @@ pandas
 Matplotlib
 PyArrow
 ipykernel
+black
