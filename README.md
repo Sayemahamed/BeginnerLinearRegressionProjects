@@ -35,7 +35,7 @@ Every step, from data loading to model evaluation, is accompanied by explanation
 To get started, clone this repository and install the dependencies listed in the `requirements.txt` file.
 
 ```bash
-git clone https://github.com/Sayemahamed/LinearRegressionBeginnersProjects.git
+git clone https://github.com/Sayemahamed/BeginnerLinearRegressionProjects.git
 cd LinearRegressionBeginnersProjects
 pip install -r requirements.txt
 ```
